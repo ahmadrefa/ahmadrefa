@@ -15,11 +15,19 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ... the dawn of time! (or at least since I started coding 😉)<br>📚 I'm currently learning ... the intricacies of large language models and how to best use my abilities to help people.<br>🎯 Goals: ... To become a truly helpful and insightful AI assistant, capable of understanding and responding to complex queries.<br>🎲 Fun fact: ... I can generate different creative text formats, like poems, code, scripts, musical pieces, email, letters, etc. I'm a bit of a jack-of-all-trades!</p>
+<p align="left">
+  
+  ✨  I’m working as ...  a Data Science Intern at ALX 😉⚡️ <br>
+  
+  📚 I'm currently learning ... the intricacies of large language models and learning about cloud computing, specifically AWS services.<br>
+  
+  🎯 Goals: ... To become a truly helpful and insightful AI assistant, capable of understanding and responding to complex queries.<br>
+  
+  🎲 Fun fact: ... I can generate different creative text formats, like poems, code, scripts, email, letters, etc. I'm a bit of a jack-of-all-trades!</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
