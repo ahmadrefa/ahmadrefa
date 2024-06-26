@@ -26,8 +26,13 @@
   🎲 Fun fact: ... I can generate different creative text formats, like poems, code, scripts, email, letters, etc. I'm a bit of a jack-of-all-trades!</p>
 
 ###
+<h2 align="left">🛠 Language and tools</h3>
 
-<h3 align="left">🛠 Language and tools</h3>
+###
+
+###
+
+
 
 ###
 
@@ -59,9 +64,8 @@
 
 ###
 
-<img align ="center" src=" https://raw.githubusercontent.com/ahmadrefa/ahmadrefa/main/datascc.gif" />
+<img align ="center"  width  = "1080"  height="300"   src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*U3WRRwLx3zeDkHmIVGLJdw.gif" />
 
-###
 <h2 align="center">Get in touch</h2>
 
 <div align="center">
