@@ -4,8 +4,6 @@
 ###
 <h2 align="left">My name is Ahmad Refai  and I'm a Data Scientist</h2>
 
-###
-<div style="width: 100%; height: 100%;"><div style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border-radius: 1px; pointer-events: auto;"><iframe src="https://ahmadrefa.github.io/notion_temple/about_me_notion/demo/index.html" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin allow-storage-access-by-user-activation allow-popups-to-escape-sandbox" allowfullscreen="" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div></div>
  
 ###
 
@@ -65,6 +63,9 @@
   </a>
   <a href="mailto:ahmadrefaiwork@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+   <a href="[mailto:ahmadrefaiwork@gmail.com"](https://www.notion.so/ahmad-refai/Design-A-New-Logo-Brand-Identity-You-Love-LogoAI-com-74669dd1ac8240e8b9a7fd9402674477) target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/53345988?v=4)" width="40" height="40" alt="me logo"  />
   </a>
 </div>
 
