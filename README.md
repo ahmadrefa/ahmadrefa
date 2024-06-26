@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<section class="nav">
+  <img src="ModernPersonar.png" alt="ahmad" width="200px" height="200px" text-align:="" center;="">
+
+  <div class="empty-space"></div> <!-- Empty div with 50px height -->
+
+  <h1>AHMAD REFAI</h1>
+  <h3 class="span loader"><span class="m">D</span><span class="m">A</span><span class="m">T</span><span class="m">A</span><span class="m">&nbsp;</span><span class="m">S</span><span class="m">C</span><span class="m">I</span><span class="m">E</span><span class="m">N</span><span class="m">C</span><span class="m">E</span><span class="m">&nbsp;</span><span class="m">E</span><span class="m">X</span><span class="m">P</span><span class="m">L</span><span class="m">O</span><span class="m">R</span><span class="m">E</span><span class="m">R</span></h3>
+</section>
 -->
