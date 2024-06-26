@@ -65,7 +65,7 @@
   <a href="mailto:ahmadrefaiwork@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-   <a href="[mailto:ahmadrefaiwork@gmail.com"](https://www.notion.so/ahmad-refai/Design-A-New-Logo-Brand-Identity-You-Love-LogoAI-com-74669dd1ac8240e8b9a7fd9402674477) target="_blank">
+   <a href="https://www.notion.so/ahmad-refai/Design-A-New-Logo-Brand-Identity-You-Love-LogoAI-com-74669dd1ac8240e8b9a7fd9402674477) target="_blank">
     <img src="https://avatars.githubusercontent.com/u/53345988?v=4)" width="40" height="40" alt="me logo"  />
   </a>
 </div>
