@@ -2,8 +2,8 @@
 
 
 ###
+<h2 align="left">My name is Ahmad Refai  and I'm a Data Scientist</h2>
 
-<p align="left">My name is Ahmad Refai  and I'm a Data Scientist</p>
 
 ###
 
