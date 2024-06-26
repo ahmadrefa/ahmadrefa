@@ -3,7 +3,7 @@
 
 ###
 <h2 align="left">My name is Ahmad Refai  and I'm a Data Scientist</h2>
-<img src="https://raw.githubusercontent.com/ahmadrefa/ahmadrefa/f7efccee2628a7bd5dca14519bf508291e9d0d1c/HTML_to_SVG_me.svg" />
+<img  align ="center"  src="https://raw.githubusercontent.com/ahmadrefa/ahmadrefa/f7efccee2628a7bd5dca14519bf508291e9d0d1c/HTML_to_SVG_me.svg" />
 
 ###
 
@@ -57,8 +57,9 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
 </div>
 
+###
 
-
+<img align ="center" src=" https://raw.githubusercontent.com/ahmadrefa/ahmadrefa/main/datascc.gif" />
 
 ###
 <h2 align="center">Get in touch</h2>
